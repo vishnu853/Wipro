@@ -1,4 +1,4 @@
-package IO_Streams;
+package io_streams;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;

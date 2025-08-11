@@ -1,4 +1,4 @@
-package Collections;
+package collections;
 
 import java.util.Deque;
 import java.util.LinkedList;

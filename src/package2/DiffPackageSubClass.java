@@ -1,6 +1,6 @@
-package package02;
+package package2;
 
-import package01.class_01;
+import package1.class_01;
 
 public class DiffPackageSubClass extends class_01
 {

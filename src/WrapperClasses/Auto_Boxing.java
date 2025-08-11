@@ -1,4 +1,4 @@
-package WrapperClasses;
+package wrapperclasses;
 
 public class Auto_Boxing
 {

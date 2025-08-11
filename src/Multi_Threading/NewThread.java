@@ -1,4 +1,4 @@
-package Multi_Threading;
+package multi_threading;
 
 public class NewThread extends Thread
 {
